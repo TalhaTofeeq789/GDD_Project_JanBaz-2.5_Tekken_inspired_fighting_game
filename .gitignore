@@ -1,0 +1,30 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+
+# OS-specific files
+.DS_Store
+*.swp
+
+# IDE-specific
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# Logs
+Logs/
+*.log
+
+# Exclude build artifacts
+*.apk
+*.aab
+*.exe
+*.zip
