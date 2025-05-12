@@ -27,16 +27,16 @@ Engage in combat across three distinct arenas:
 
 ## 🕹️ Controls
 
-| Action         | Key       |
-|----------------|-----------|
+| Action         | Key        |
+|----------------|------------|
 | Move Left      | Left Arrow |
-| Move Right     | Right Arrow |
-| Jump           | Up Arrow |
-| Crouch         | Down Arrow |
-| Right Punch    | Num 1     |
-| Left Punch     | Num 2     |
-| Right Kick     | Num 3     |
-| Left Kick      | Num 4     |
+| Move Right     | Right Arrow|
+| Move Up        | Up Arrow   |
+| Move Down      | Down Arrow |
+| Right Punch    | Num 1      |
+| Left Punch     | Num 2      |
+| Right Kick     | Num 3      |
+| Left Kick      | Num 4      |
 
 ## ✨ Features
 
